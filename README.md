@@ -541,9 +541,11 @@ Publish the website in the given URL.
 ![ex07 3](https://github.com/RagulRM/productcompanywebsite/assets/121609342/63a552cd-669c-4bca-af0b-90a0c4d560e4)
 ![ex07 4](https://github.com/RagulRM/productcompanywebsite/assets/121609342/eb34033b-21c9-4655-a5ac-ea8a9b794766)
 ![ex07 5](https://github.com/RagulRM/productcompanywebsite/assets/121609342/144863cf-666d-4aff-8ea5-d02b99b069f3)
-
+![ex07 6](https://github.com/RagulRM/productcompanywebsite/assets/121609342/2d11c3f0-9a17-42b2-ab0c-236535418673)
+![ex07 7](https://github.com/RagulRM/productcompanywebsite/assets/121609342/1fea79fb-685b-463c-8ab2-b94327e7bd2e)
+![ex07 8](https://github.com/RagulRM/productcompanywebsite/assets/121609342/5e3bb688-a40a-4c2e-b675-7749fadf07a5)
 ### Contact Page
-
+![ex07 9](https://github.com/RagulRM/productcompanywebsite/assets/121609342/48ea9810-81a3-48eb-94af-f34e0fcf337f)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
